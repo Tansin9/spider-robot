@@ -35,7 +35,7 @@ joints of the robot legs, allowing it to move in a quadrupedal manner.
 ### HARDWARE DESIGN
 
 
--  POWER SUPPLY
+###  POWER SUPPLY
   Because of its high energy density and rechargeable capabilities, the 18650
 lithium-ion battery pack has grown in popularity as a power source for a variety of
 electronic devices, including robotics. These batteries are small and powerful, making
@@ -49,7 +49,7 @@ and long-lasting power source.
 
 
 
-- Arduino UNO
+### Arduino UNO
 A microcontroller is a small computer that is used to control the spider robot's
 movements. It sends commands to the robot's actuators to produce the desired movements. The Arduino Uno is a popular
 microcontroller board used in electronics projects such as robotics. The board is based on
@@ -65,7 +65,7 @@ pattern.
 
 
 
-- Servo Motors
+### Servo Motors
 A servomotor is a rotary actuator or linear actuator that allows for precise control of
 angular or linear position, velocity, and acceleration. It consists of a suitable motor
 coupled to a sensor for position feedback. MG-90 servo motors are small, high-quality
@@ -77,7 +77,7 @@ plug-and-play compatibility with most microcontrollers.
 ![image](https://github.com/Tansin9/spider-robot/assets/130788893/09a3fc11-e0d3-4a65-b217-5056a8af87f8)
 
 
-- Mechanical Structure
+### Mechanical Structure
 The mechanical structure of a quadruped spider robot is a crucial aspect of its design, as
 it determines the robot's movement capabilities and overall stability. The mechanical
 structure of a quadruped spider robot consists of four legs, each of which is composed of
