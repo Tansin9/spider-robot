@@ -7,7 +7,8 @@ At the moment, mobile robots are gaining popularity. They are classified into th
 based on how they move :legged robots, wheeled robots, and tracked robots. The main
 advantage of legged robots is that their legs can walk on uneven terrain while remaining
 balanced
-![image](https://github.com/Tansin9/spider-robot/assets/130788893/c535a680-3510-4897-92ce-83af118c7cf3)
+![image](https://github.com/Tansin9/spider-robot/assets/130788893/30cf3ad2-9b19-4918-a73d-d1bb18b491c9)
+
 Legged robots have several advantages over wheeled robots, especially when traversing
 rough or uneven terrain. While wheeled robots can only travel on flat surfaces, legged
 robots can traverse complex and irregular terrain such as uneven surfaces or stairs.
@@ -20,7 +21,8 @@ aims to build a machine that can navigate complex terrain, climb vertical surfac
 ## SYSTEM DEVELOPMENT
 ### Block Diagram of Spider Robot
 
-![image](https://github.com/Tansin9/spider-robot/assets/130788893/d239f717-d284-4dd4-9b8f-31e3b5b187c4)
+![image](https://github.com/Tansin9/spider-robot/assets/130788893/37c1b3ac-b9f0-4b33-a02b-0f103a933ed2)
+
 
 The above diagram gives us the perceptible idea of a Quadruped Robot. The block
 diagram includes various components, including 18650 lithium-ion
@@ -43,8 +45,8 @@ in a small package. This is due to lithium-ion's unique chemistry, which allows 
 more energy than other types of batteries. In addition to their high energy density, these
 batteries have a long cycle life and a low self-discharge rate, making them an effective
 and long-lasting power source.
+![image](https://github.com/Tansin9/spider-robot/assets/130788893/337f380b-0699-4eb7-9d71-8abbaf4c3eb0)
 
-![image](https://github.com/Tansin9/spider-robot/assets/130788893/d50ef186-70b3-4f88-a2cd-870eb9e58969)
 
 
 - Arduino UNO
@@ -59,7 +61,8 @@ Arduino Uno serves as the primary controller in this project, governing the robo
 movement. The servo motors that move the legs are connected to the Arduino board's
 input/output pins, which send signals to the motors to move the legs in the desired
 pattern.
-![image](https://github.com/Tansin9/spider-robot/assets/130788893/cdd57cbf-d94a-4e92-be84-f75b4ea489ac)
+![image](https://github.com/Tansin9/spider-robot/assets/130788893/4df883c7-9cc8-4205-af13-f41c34bbf553)
+
 
 
 - Servo Motors
@@ -71,7 +74,8 @@ cars, and drones. These motors are popular because of their compact size, high t
 output, and precise control. They are designed to be easy to use, with simple wiring and
 plug-and-play compatibility with most microcontrollers. 
 
-![image](https://github.com/Tansin9/spider-robot/assets/130788893/6c65011e-acdd-4462-9701-9ef9d2c4887d)
+![image](https://github.com/Tansin9/spider-robot/assets/130788893/09a3fc11-e0d3-4a65-b217-5056a8af87f8)
+
 
 - Mechanical Structure
 The mechanical structure of a quadruped spider robot is a crucial aspect of its design, as
@@ -91,7 +95,8 @@ ideal choice for constructing the body parts of a quadruped spider robot. Additi
 acrylic is easy to cut and shape using a variety of tools, including laser cutters, saws, and
 drills. This makes it easy to create custom body parts that fit the specific needs of the
 robot.
-![image](https://github.com/Tansin9/spider-robot/assets/130788893/610eb066-4418-4717-954b-de7e4d01c7ad)
+![image](https://github.com/Tansin9/spider-robot/assets/130788893/cdd16131-64c0-484e-aac8-1342a2b0cae6)
+
 
 ##  SOFTWARE DESIGN
 The software design of the quadruped spider robot is a critical component that facilitates
@@ -118,7 +123,8 @@ smoothly and efficiently.
 
 - Keep repeating steps 2 and 3 until the power is on.
 
-![image](https://github.com/Tansin9/spider-robot/assets/130788893/45889f78-efa8-4edb-aa36-f6ad0d73d941)
+![image](https://github.com/Tansin9/spider-robot/assets/130788893/c2093393-3c51-44b2-a4e2-a95ccb7b6956)
+
 
 ## Result
 In conclusion, the project to build a small, agile, and adaptable robot capable of a variety
